@@ -6,3 +6,6 @@ In today's competitive market, effective cost management is essential for busine
 ## Dataset:
 The dataset is on the given link -   \
 https://drive.google.com/drive/folders/1FkmFVL8wlJmQWP1z52TD8PlhOJhitTyI?usp=sharing
+
+## Process
+The Expenditure Data Analysis project focuses on exploratory data analysis (EDA) and data visualization of the NITI Aayog expenditure dataset from India. For the given dataset, I processed expenditure information, analyzed key patterns, obtained insights from various attributes and finally did visualization. The process involved extracting the dataset, cleaning, transforming, and loading it into Google Data Studio. This enabled the creation of an insightful dashboard, summarizing key insights and offering actionable recommendations for cost management.
