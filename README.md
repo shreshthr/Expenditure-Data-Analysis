@@ -18,6 +18,6 @@ The Expenditure Data Analysis project focuses on exploratory data analysis (EDA)
 5. Project Code
 6. Project Report
 
-### Following:
-- Project Demo Video
+
+- Project Demo Video \
 - Project Linkedin Post
